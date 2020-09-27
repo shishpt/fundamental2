@@ -1,4 +1,4 @@
-# Intro4
+# Fundamentals2
 
 The site in this repository is one version made for my cousin who is a financial analyst.  The site is put together using bootstrap along with PHP.  While there are many files (ie css and js) some are not running as the components were not fully built out for this version.
 
