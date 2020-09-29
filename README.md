@@ -7,4 +7,5 @@ There is an index.html and a blog.html which were used as prototypes for reachin
 The html pages and main.css (heavily used) has been commented to help identify code.
 
 https://youcallthatbootstrap.surge.sh (homepage)
-youcallthatbootstrap.surge.sh/blog.html (blog)
+
+https://youcallthatbootstrap.surge.sh/blog.html (blog)
